@@ -1,3 +1,5 @@
+<img src="./header.png" />
+
 # Hi my name is Dirk, aka Lapsus
 
 i am a freelance software developer and architect, father and husband.
