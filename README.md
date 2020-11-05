@@ -7,21 +7,21 @@
 
 ### Languages and Tools
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /> <img 
-src="https://img.shields.io/badge/html5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img 
-src="https://img.shields.io/badge/css3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> <img 
+src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img 
+src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> <img 
 src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" /> <img
-src="https://img.shields.io/badge/sass%20-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" /> <img 
+src="https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" /> <img 
 src="https://img.shields.io/badge/Zend%20Framework-%2368B604.svg?style=for-the-badge&logo=zend-framework&logoColor=white" /> <img
 src="https://img.shields.io/badge/composer-%23885630.svg?style=for-the-badge&logo=composer&logoColor=white" /> <img 
 src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" /> <img
 src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" /> <img 
-src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D" /> <img
-src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
+src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D" /> <img
+src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
 
 <img src="https://img.shields.io/badge/apache%20-%23D22128.svg?&style=for-the-badge&logo=apache&logoColor=white" /> <img
-src="https://img.shields.io/badge/nginx-%23269539.svg?&style=for-the-badge&logo=nginx&logoColor=white" /><img 
-src="https://img.shields.io/badge/redis%20-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" /> <img
-src="https://img.shields.io/badge/Maria%20Db-%231F305F.svg?style=for-the-badge&logo=mariadb-foundation&logoColor=white" /> <img 
+src="https://img.shields.io/badge/nginx-%23269539.svg?&style=for-the-badge&logo=nginx&logoColor=white" /> <img 
+src="https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" /> <img
+src="https://img.shields.io/badge/MariaDb-%231F305F.svg?style=for-the-badge&logo=mariadb-foundation&logoColor=white" /> <img 
 src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /> <img 
 src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /> <img
 src="https://img.shields.io/badge/oracle-%23F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white" /> <img 
@@ -31,7 +31,7 @@ src="https://img.shields.io/badge/apache%20solr-%23D9411E.svg?style=for-the-badg
 src="https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white" />
 
 <img src="https://img.shields.io/badge/gitlab-%23330f63.svg?style=for-the-badge&logo=gitlab&logoColor=white" /> <img 
-src="https://img.shields.io/badge/phpstorm%20-%23b443f1.svg?style=for-the-badge&logo=jetbrains&logoColor=white" /> <img 
+src="https://img.shields.io/badge/phpstorm-%23b443f1.svg?style=for-the-badge&logo=jetbrains&logoColor=white" /> <img 
 src="https://img.shields.io/badge/macbook%20pro%202015-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white" /> <img
 src="https://img.shields.io/badge/Raspberry%20PI-%23C51A4A.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white" /> <img
 src="https://img.shields.io/badge/debian-%23A81D33.svg?&style=for-the-badge&logo=debian&logoColor=white" /> <img 
