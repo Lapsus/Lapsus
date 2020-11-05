@@ -11,7 +11,7 @@ src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&l
 src="https://img.shields.io/badge/sass%20-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" /> <img 
 src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" /> <img 
 src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D" /> <img
-src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white&labelColor=%23F05032" />
+src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
 
 <img src="https://img.shields.io/badge/apache%20-%23D22128.svg?&style=for-the-badge&logo=apache&logoColor=white&labelColor=%23D22128" /> <img
 src="https://img.shields.io/badge/nginx-%23269539.svg?&style=for-the-badge&logo=nginx&logoColor=white&labelColor=%269539" /><img src="https://img.shields.io/badge/redis%20-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white&labelColor=%23DC382D" /> <img 
