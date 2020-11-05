@@ -1,7 +1,9 @@
 # Hi my name is Dirk, aka Lapsus
 
 software developer and architect, father and husband.
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Lapsus.visitor-badge)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Lapsus.visitor-badge)
+ 
 ---
 
 ## Connect with me
