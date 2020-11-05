@@ -2,7 +2,8 @@
 
 ### Connect with me
 [<img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="My Website" height="16" width="16" /> My Website](https://www.dirk-benkert.de)<br />
-[<img src="https://simpleicons.org/icons/xing.svg" alt="Xing" height="16" width="16" /> Xing](https://www.xing.com/profile/Dirk_Benkert2/cv)
+[<img src="https://simpleicons.org/icons/xing.svg" alt="Xing" height="16" width="16" /> Xing](https://www.xing.com/profile/Dirk_Benkert2/cv) <br />
+[<img src="https://simpleicons.org/icons/twitter.svg" alt="Xing" height="16" width="16" /> Twitter](https://twitter.com/lapsus75)
 
 ### Languages and Tools
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /> <img 
