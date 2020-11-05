@@ -1,8 +1,8 @@
 ### Hi my name is Dirk, aka Lapsus 👋
 
 ### Connect with me
-[<img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="My Website" height="32" width="32" />](https://www.dirk-benkert.de)
-[<img src="https://simpleicons.org/icons/xing.svg" alt="Xing" height="32" width="32" />](https://www.xing.com/profile/Dirk_Benkert2/cv)
+* [<img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="My Website" height="32" width="32" /> My Website](https://www.dirk-benkert.de)
+[<img src="https://simpleicons.org/icons/xing.svg" alt="Xing" height="32" width="32" /> Xing](https://www.xing.com/profile/Dirk_Benkert2/cv)
 
 ### Languages and Tools
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /> <img 
