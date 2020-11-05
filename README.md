@@ -14,7 +14,7 @@ src="https://img.shields.io/badge/sass%20-%23CC6699.svg?style=for-the-badge&logo
 src="https://img.shields.io/badge/Zend%20Framework-%2368B604.svg?style=for-the-badge&logo=zend-framework&logoColor=white" /> <img
 src="https://img.shields.io/badge/composer-%23885630.svg?style=for-the-badge&logo=composer&logoColor=white" /> <img 
 src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" /> <img
-"src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" /> <img 
+src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" /> <img 
 src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D" /> <img
 src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
 
