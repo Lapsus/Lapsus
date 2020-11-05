@@ -13,8 +13,9 @@ src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&log
 src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D" /> <img
 src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
 
-<img src="https://img.shields.io/badge/apache%20-%23D22128.svg?&style=for-the-badge&logo=apache&logoColor=white&labelColor=%23D22128" /> <img
-src="https://img.shields.io/badge/nginx-%23269539.svg?&style=for-the-badge&logo=nginx&logoColor=white&labelColor=%269539" /><img src="https://img.shields.io/badge/redis%20-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white&labelColor=%23DC382D" /> <img 
+<img src="https://img.shields.io/badge/apache%20-%23D22128.svg?&style=for-the-badge&logo=apache&logoColor=white" /> <img
+src="https://img.shields.io/badge/nginx-%23269539.svg?&style=for-the-badge&logo=nginx&logoColor=white" /><img 
+src="https://img.shields.io/badge/redis%20-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" /> <img 
 src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /> <img 
 src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /> <img 
 src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
