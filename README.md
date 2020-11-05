@@ -1,6 +1,5 @@
+<h2 class="f4 text-normal mb-2"> My name is Dirk, aka Lapsus <h2>
 <img src="./header.png" />
-
-# my name is Dirk, aka Lapsus
 
 i am a freelance software developer and architect, father and husband.
 
