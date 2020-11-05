@@ -15,5 +15,5 @@ src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=
 src="https://img.shields.io/badge/gitlab-%23330f63.svg?style=for-the-badge&logo=gitlab&logoColor=white" /> <img 
 src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" /> <img 
 src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D" /> <img 
-src="https://img.shields.io/badge/apple-macbook.svg?style=for-the-badge&logo=apple&logoColor=white" /> <img 
+src="https://img.shields.io/badge/apple-macbook%20pro%202015.svg?style=for-the-badge&logo=apple&logoColor=white" /> <img 
 src="https://img.shields.io/badge/phpstorm-%23b443f1.svg?style=for-the-badge&logo=jetbrains&logoColor=white&labelColor=%23b443f1" />
