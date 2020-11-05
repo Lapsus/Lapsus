@@ -21,7 +21,7 @@ src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&log
 src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
 
 <img src="https://img.shields.io/badge/gitlab-%23330f63.svg?style=for-the-badge&logo=gitlab&logoColor=white" /> <img 
-src="https://img.shields.io/badge/phpstorm%20-%23b443f1.svg?style=for-the-badge&logo=jetbrains&logoColor=white&labelColor=%23b443f1" /> <img 
+src="https://img.shields.io/badge/phpstorm%20-%23b443f1.svg?style=for-the-badge&logo=jetbrains&logoColor=white" /> <img 
 src="https://img.shields.io/badge/apple-macbook%20pro%202015-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white" /> <img
-src="https://img.shields.io/badge/debian-%23A81D33.svg?&style=for-the-badge&logo=debian&logoColor=white&labelColor=%23A81D33" /> <img 
-src="https://img.shields.io/badge/vim-%23019733.svg?&style=for-the-badge&logo=vim&logoColor=white&labelColor=%23019733" />
+src="https://img.shields.io/badge/debian-%23A81D33.svg?&style=for-the-badge&logo=debian&logoColor=white" /> <img 
+src="https://img.shields.io/badge/vim-%23019733.svg?&style=for-the-badge&logo=vim&logoColor=white" />
