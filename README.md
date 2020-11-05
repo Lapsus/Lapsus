@@ -1,11 +1,15 @@
-### Hi my name is Dirk, aka Lapsus
+# Hi my name is Dirk, aka Lapsus
 
-### Connect with me
+software developer and architect, father and husband.
+
+---
+
+## Connect with me
 [<img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="My Website" height="16" width="16" /> My Website](https://www.dirk-benkert.de)<br />
 [<img src="https://simpleicons.org/icons/xing.svg" alt="Xing" height="16" width="16" /> Xing](https://www.xing.com/profile/Dirk_Benkert2/cv) <br />
 [<img src="https://simpleicons.org/icons/twitter.svg" alt="Xing" height="16" width="16" /> Twitter](https://twitter.com/lapsus75)
 
-### Languages and Tools
+## Languages and Tools
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /> <img 
 src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img 
 src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> <img 
@@ -37,3 +41,6 @@ src="https://img.shields.io/badge/Raspberry%20PI-%23C51A4A.svg?style=for-the-bad
 src="https://img.shields.io/badge/debian-%23A81D33.svg?&style=for-the-badge&logo=debian&logoColor=white" /> <img 
 src="https://img.shields.io/badge/vim-%23019733.svg?&style=for-the-badge&logo=vim&logoColor=white" /> <img
 src="https://img.shields.io/badge/brave-%23FB542B.svg?&style=for-the-badge&logo=brave&logoColor=white" />
+
+## Offline
+Besides work i enjoy the outdoors, rock climbing and volleyball (as a coach and player), Starcraft 2, playing guitar and pen&paper roleplaying games.
